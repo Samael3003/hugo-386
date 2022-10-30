@@ -13,13 +13,13 @@ preserveTaxonomyNames = true
     mainpagesubtitle = "Welcome to the early 90s!" 
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "This theme is the Hugo port of the BOOTSTRA.386 theme for a cool retro look on your blog. Check the links below to access the posts."
+    mainpagedesc = "Hello, @Samael3003 here. I always had a little nostalgia towards old and retro themes and games. This is nothing but a simple way of reliving the Past we GEN-Z always missed..."
 
     # The name to display in the copyright section in the footer
-    copyrightname = "JM Fergeau"
+    copyrightname = "@Samael3003"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    copyrighturl = "http://jmf-portfolio.netlify.com"
+    copyrighturl = "https://hugo-386.vercel.app/"
 
     # Show the "built on Hugo" disclaimer
     showhugo = true
@@ -44,13 +44,13 @@ preserveTaxonomyNames = true
     name = "JM Fergeau"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    url = "http://jmf-portfolio.netlify.com"
+    url = "https://hugo-386.vercel.app/"
 
     # Text to go before copyright information
-    prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
+    prefix = "[a project in HUGO-386](https://github.com/Samael3003/hugo-386)"
 
     # Text to go between copyright and hugo disclaimer (if enabled)
-    suffix = "Example site"
+    suffix = "This site"
 
 [menu]
   # This displays buttons in the navbar to access your contents
