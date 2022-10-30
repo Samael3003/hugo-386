@@ -1,9 +1,9 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+description = "WHOAMI ? , WHATAMI ? , WHYAMI ?"
+date = "2022-10-30"
+aliases = ["about","contact"]
+author = "Sahil Sawant"
 +++
 
 **WHOAMI :**
@@ -21,8 +21,11 @@ I am a budding engineer as well as a Developer. So, I guess its obvious for me t
 I usually work only on my Three Devices, namely:
 
     - MUNDUS: my Windows Machine, with QuadCore Inteli5, 50GB HDD, 8GB RAM.
+    
     - ATHYRIUS: my LINUX Laptop (ArchLinux,btw), with OctaCore Inteli5, 1TB HDD, 8GB RAM
+    
     - OBLIVION: my RASPBERRY PI 4B Server (RaspbianOS), with QuadCore ARM processor, 64GB sd-card, 4GB RAM,
+    
     - and few VirtualMachines in HardDisks
  
 
@@ -32,9 +35,9 @@ I am a budding Developer from Pune, India. I like to develop new websites in var
 
 I am planning on moving to WEB 3.0 infrastructure very soon. I aim to becoming one of the best WEB DEVELOPER in India.
 
-    [aaj-mai-uddenga](http://peakyprogrammer.me/aaj-mai-uddenga)
+   - [aaj-mai-uddenga](http://peakyprogrammer.me/aaj-mai-uddenga)
 
-    [ek-tha-programmer](http://peakyprogrammer.me/ek-tha-programmer)
+   - [ek-tha-programmer](http://peakyprogrammer.me/ek-tha-programmer)
 
 Learn more and contribute on [GitHub](https://github.com/Samael3003).
 
