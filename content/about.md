@@ -6,21 +6,35 @@ aliases = ["about-us","about-hugo","contact"]
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+**WHOAMI :**
 
-Hugo makes use of a variety of open source projects including:
+Hey, it's nice to see you. I am Sahil Sawant, and I often go by name: Samael Starshine.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+I am a Comps Schüler, EnTC Under-Grad.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+I am also a Web Developer, Python and Java Programmer and Linux Enthusiast. 
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+**WHAT I LOVE :**_
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+I am a budding engineer as well as a Developer. So, I guess its obvious for me to be in love with the virtual Worls and it's MACHINES.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+I usually work only on my Three Devices, namely:
+
+    - MUNDUS: my Windows Machine, with QuadCore Inteli5, 50GB HDD, 8GB RAM.
+    - ATHYRIUS: my LINUX Laptop (ArchLinux,btw), with OctaCore Inteli5, 1TB HDD, 8GB RAM
+    - OBLIVION: my RASPBERRY PI 4B Server (RaspbianOS), with QuadCore ARM processor, 64GB sd-card, 4GB RAM,
+    - and few VirtualMachines in HardDisks
+ 
+
+**ABOUT ME :**
+
+I am a budding Developer from Pune, India. I like to develop new websites in various fields. I have uploaded most of my collection on my GITHUB and VERCEL.
+
+I am planning on moving to WEB 3.0 infrastructure very soon. I aim to becoming one of the best WEB DEVELOPER in India.
+
+    [aaj-mai-uddenga](http://peakyprogrammer.me/aaj-mai-uddenga)
+
+    [ek-tha-programmer](http://peakyprogrammer.me/ek-tha-programmer)
+
+Learn more and contribute on [GitHub](https://github.com/Samael3003).
 
