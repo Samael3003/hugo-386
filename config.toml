@@ -41,7 +41,7 @@ preserveTaxonomyNames = true
     loadonepass = false
 
 [params.copyright]
-    name = "JM Fergeau"
+    name = "@Samael3003"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
     url = "https://hugo-386.vercel.app/"
