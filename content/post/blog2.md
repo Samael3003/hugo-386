@@ -23,7 +23,7 @@ Actually, drastically shifting from Windows Environment is the main problem, as 
 So, Here are my few suggestions for starting off with few of the basic applications. ......
 
 
-# 1. Ranger :
+## 1. Ranger :
 
 <img src="https://ranger.github.io/ranger_logo.png" width="150">
 
@@ -54,7 +54,7 @@ For Installing:
 
 
 
-# 2. Neofetch 
+## 2. Neofetch 
 
 Now, we will look to all our favourite **Neofetch** and its minimal version, the **Pfetch**.
 So, Neofetch is the command-line system information tool written in **BASH**.
@@ -83,7 +83,7 @@ For Installing:
 
 
 
-# HTOP
+## 3. HTOP
 
 For basics, this is most important cli tool to check our CPU load and RAM usage.
 Similar to TASK-MANAGER in Windows, this app provides both -(the graphs and processes holding) on same terminal.
