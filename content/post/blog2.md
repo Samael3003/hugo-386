@@ -80,3 +80,37 @@ For Installing:
         git clone https://github.com/dylanaraps/neofetch.git
         cd ranger
         sudo make install
+
+
+
+# HTOP
+
+For basics, this is most important cli tool to check our CPU load and RAM usage.
+Similar to TASK-MANAGER in Windows, this app provides both -(the graphs and processes holding) on same terminal.
+It is an interactive system-monitor process-viewer and process-manager. 
+It is designed as an alternative to the Unix program top.
+The information displayed is configurable through a graphical setup and can be sorted and filtered interactively.
+Tasks related to processes (e.g. killing and renicing) can be done without entering their PIDs.
+
+    Link to GITHUB Pages :
+            https://github.com/htop-dev/htop
+            
+For Installing:
+        In most devices, it is pre-loded.
+        but,
+    
+    _For ARCH-Linux:_
+        sudo pacman -S htop
+        
+    _For UBUNTU and Its' Derivatives_
+        sudo apt install htop
+        
+    _For SNAP-store_
+        sudo snap install htop
+        
+    _most common:_
+        git clone https://github.com/htop-dev/htop.git
+        ./autogen.sh && ./configure && make
+        
+        
+        
