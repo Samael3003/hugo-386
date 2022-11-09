@@ -19,8 +19,7 @@ preserveTaxonomyNames = true
     copyrightname = "@Samael3003"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    copyrighturl = "https://
-    .vercel.app/"
+    copyrighturl = "https://hugo-386-auriel3003.vercel.app/"
 
     # Show the "built on Hugo" disclaimer
     showhugo = true
