@@ -14,9 +14,11 @@ aliases = ["migrate-from-jekyl"]
 +++
 
 # Hello Friends,
+
 this is **Sahil Sawant**, and today I am going to tell you some amaizing **LINUX UTILITIES** to use...
 
 ## For Newbies,
+
 A thing I have observed a lot is that, a lot of newbies are afraid of LINUX Terminals, and avoid using them.
 Actually, drastically shifting from Windows Environment is the main problem, as the newbies are not well-equiped with the DARK-TERMINALS, and prefer using GUI applications.
 
