@@ -53,10 +53,8 @@ For Installing:
         sudo make install
 
 
-# 2. Neofetch 
 
-<h3 align="center"><img src="https://i.imgur.com/ZQI2EYz.png" alt="logo" height="100px"></h3>
-<p align="center">A command-line system information tool written in bash 3.2+</p>
+# 2. Neofetch 
 
 Now, we will look to all our favourite **Neofetch** and its minimal version, the **Pfetch**.
 So, Neofetch is the command-line system information tool written in **BASH**.
