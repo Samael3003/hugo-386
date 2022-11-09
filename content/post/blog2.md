@@ -51,3 +51,34 @@ For Installing:
         git clone https://github.com/ranger/ranger.git
         cd ranger
         sudo make install
+
+
+# 2. Neofetch 
+
+<h3 align="center"><img src="https://i.imgur.com/ZQI2EYz.png" alt="logo" height="100px"></h3>
+<p align="center">A command-line system information tool written in bash 3.2+</p>
+
+Now, we will look to all our favourite **Neofetch** and its minimal version, the **Pfetch**.
+So, Neofetch is the command-line system information tool written in **BASH**.
+It displays information about your operating system, software and hardware in an aesthetic and visually pleasing way. 
+The information by default is displayed alongside your operating system's logo. 
+You can further configure Neofetch to instead use an image, a custom ASCII file, your wallpaper or nothing at all.
+
+    Link to Github Pages:
+        https://github.com/dylanaraps/neofetch
+        
+For Installing:
+
+    _For ARCH-Linux:_
+        sudo pacman -S neofetch
+        
+    _For UBUNTU and Its' Derivatives_
+        sudo apt install neofetch
+        
+    _For SNAP-store_
+        sudo snap install neofetch
+        
+    _most common:_
+        git clone https://github.com/dylanaraps/neofetch.git
+        cd ranger
+        sudo make install
