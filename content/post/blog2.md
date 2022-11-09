@@ -2,7 +2,7 @@
 author = "Sahil Sawant"
 title = "Linux Terminal Applications ....  : )"
 date = "2022-10-30"
-description = "HOWAMI ? , WHYAMI ? , WHOMAMI?"
+description = "Linux Terminal Applications ....  : )"
 tags = [
     "",
 ]
