@@ -1,4 +1,4 @@
-baseURL = "https://hugo-386.vercel.app/"
+baseURL = "https://hugo-386-auriel3003.vercel.app/"
 title = "HUGO.386"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
@@ -19,7 +19,8 @@ preserveTaxonomyNames = true
     copyrightname = "@Samael3003"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    copyrighturl = "https://hugo-386.vercel.app/"
+    copyrighturl = "https://
+    .vercel.app/"
 
     # Show the "built on Hugo" disclaimer
     showhugo = true
@@ -44,10 +45,10 @@ preserveTaxonomyNames = true
     name = "@Samael3003"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    url = "https://hugo-386.vercel.app/"
+    url = "https://hugo-386-auriel3003.vercel.app/"
 
     # Text to go before copyright information
-    prefix = "[a project in HUGO-386](https://github.com/Samael3003/hugo-386)"
+    prefix = "[a project in HUGO-386](https://github.com/Auriel3003/hugo-386-auriel3003)"
 
     # Text to go between copyright and hugo disclaimer (if enabled)
     suffix = "This site"
