@@ -43,23 +43,23 @@ Another thing is that the people want to surf the internet, just in the voyage o
 
 ## >> C-Programming
 
-Another thing is the GNU Manual and is affiliated to C-Programming. Most people want to learn the C-Language. But they dont realise that this page: “https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html” contains everything related to C-Programming. Anytime I get struck with C-Programming, I refer this page, and
+Another thing is the GNU Manual and is affiliated to **C-Programming**. Most people want to learn the C-Language. But they dont realise that this page: “https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html” contains everything related to C-Programming. Anytime I get struck with C-Programming, I refer this page, and
 
 ## >> C++ Programming
 
-For the C++ Programming language, I always love refering to the C++ Reference website: “https://en.cppreference.com/w/”. You know what, I love this website. Whenever I do my competitive Programming, this is my GO-TO WEBSITE.
+For the C++ Programming language, I always love refering to the **C++ Reference website**: “https://en.cppreference.com/w/”. You know what, I love this website. Whenever I do my competitive Programming, this is my GO-TO WEBSITE.
 
 ## >> BASH Scripting ...
 
-This thing, the GNU Manual, also come for the BASH SCRIPTING. there is a pdf manual, but always go with the HTML manual : “https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html”, since it keeps updated iself, and moreover, it is the cleaner version than compared to the pdf version. And one mor thing, no video in world will teach you the techniques taught in this manual. It is self-explanatory manual; Just read it and you will be the Bash-Mage.
+This thing, the GNU Manual, also come for the **BASH SCRIPTING**. there is a pdf manual, but always go with the HTML manual : “https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html”, since it keeps updated iself, and moreover, it is the cleaner version than compared to the pdf version. And one mor thing, no video in world will teach you the techniques taught in this manual. It is self-explanatory manual; Just read it and you will be the **Bash-Mage.**
 
 
 ## >> More of what I feel .....
 
-You know, reading the Reference pages is simple,like in the case of the C++ Reference and the linux.die.net, where you simply have to type the query you want to search. But, for the Reference manuals, like the GNU Manuals and the Man-Pages, you definitely need to have some skills. But, in the end of the Day, you definitely will learn to use them. You dont need to get afraiid of the Manuals, and rely on other tutors to teach stuff; whereas, your aim should be to become the self-taught Programmer or the Hacker you are ment to be. Start doing research; you are not any uneducated person. You are the one who has cracked JEE Examination and other CETs to get here. Even the Universe cant stop you from achieving what you wanted.
+You know, reading the Reference pages is simple,like in the case of the **C++ Reference** and the **linux.die.net**, where you simply have to type the query you want to search. But, for the Reference manuals, like the **GNU Manuals** and the **Man-Pages**, you definitely need to have some skills. But, in the end of the Day, you definitely will learn to use them. You dont need to get afraiid of the Manuals, and rely on other tutors to teach stuff; whereas, your aim should be to become the self-taught Programmer or the Hacker you are ment to be. Start doing research; you are not any uneducated person. You are the one who has cracked JEE Examination and other CETs to get here. Even the Universe cant stop you from achieving what you wanted.
 
 ## >> CONCLUSION :)
 
-This is just random stuff I am expressing about, but i think fining new resourses and Researching about them is the main principle or the Quality I must MASTER, at the end. Moreover, the Intellect does not matter in the world, but the INNOVATION that we MUSTER.
+This is just random stuff I am expressing about, but i think fining new resourses and Researching about them is the main principle or the Quality I must MASTER, at the end. Moreover, the Intellect does not matter in the world, but the **INNOVATION that we MUSTER**.
 
 I just go on surfing the net, unti I find the tool that is right for the needs, and work on it to perfect myself. And i dont think that any Udemy Course or any other Youtube tutorial is/will be able to impart this much knowledge. Just practicing and polishing our Tools makes us Important.
