@@ -2,7 +2,7 @@
 author = "Sahil Sawant"
 title = "Advice for Newbies ..."
 date = "2022-10-30"
-description = "Advice for Newbies ..."
+description = "> Best Resourses or Procrastination ??_"
 tags = [
     "",
 ]
@@ -13,7 +13,6 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-# > Best Resourses or Procrastination ??_
 
 this is **Sahil Sawant**, and today I am going to tell you some amaizing **LINUX UTILITIES** to use...
 
