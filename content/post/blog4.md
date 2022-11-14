@@ -1,6 +1,6 @@
 +++
 author = "Sahil Sawant"
-title = ">Freedom is Sale ??_"
+title = "True Freedom of Speech"
 date = "2022-11-14"
 description = ">Freedom is Sale ??_"
 tags = [
