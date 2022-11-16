@@ -57,9 +57,11 @@ Run the command:
 SO, we now we get 3 files namely- **Sysinfo.csv, Procinfo.csv, Netinfo.csv**. Out of these,:
     
 > The **Sysinfo.csv** provides the information about all the System Configuration, like the _cpu architecture_, _ram present_, _Operationg System_, _Kernel Information_, etc.
+
 .
 
 > The **Procinfo.csv** provides the information about the _ProcessID_, _Process-Name_, _Process Status_. 
+
 .
 
 > The **Netinfo.csv** provides the information about the _ProcessID_, _Local IP & Port_, _Remote IP & Port_.
@@ -96,14 +98,14 @@ For the provided outcomes, we have prepared to categorise into 4 processes:
         
 The user is notifies about the Progress as:
 
-1. Through Notification:
+  1. Through Notification:
 
-        The (User Query)(User Choice) is stored in (UserChoice).txt")  >
+            The (User Query)(User Choice) is stored in (UserChoice).txt")  >
 
-2. Through E-mail:
+  2. Through E-mail:
 
-Sender: raystrahl30032003@gmail.com
-Reciever: (TheUser@example.xyz)
+     Sender: raystrahl30032003@gmail.com
+     Reciever: (TheUser@example.xyz)
 
 Subject:
 
