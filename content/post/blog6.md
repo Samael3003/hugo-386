@@ -39,9 +39,9 @@ Run the Following commands:
 
 Now, the client throws the Information of three different sources. - 
 
-  1. System Information.
-  2. Process Information.
-  3. Network Information.
+  1.) System Information.
+  2.) Process Information.
+  3.) Network Information.
     
 Now, the Server accepts the request and packs up the information in three files, named upon the port numbers.
 The difference between the byte-transfer can tell us the information passed from certain port.
@@ -80,29 +80,29 @@ Now, for Phase II, we have three outputs. First, we have to creatte a text file 
 
 For the provided outcomes, we have prepared to categorise into 4 processes:
 
-1. searchbyPROCESSID:
+1.) searchbyPROCESSID:
         
 > Since the Tab of Process IP is present in Netinfo.csv and Procinfo.csv, we take both files as the input, and find the required ProcessId asked by the User. If present, we append the complete row about the UserQuery into the PID.txt. On completion of this task, we send the Notification on the Desktop and Email to the User account.
 
-2. searchbyLOCALIP:
+2.) searchbyLOCALIP:
         
 > Now, the Tab of Local IP tab is only available in the Netinfo.csv. So, we consider only this file as the Input. We then proceed to find the UserQuerry in the LocalIP tab. If Present, (say 0.0.0.0), we append the complete row about the Query into the LIP.txt file inside the same Directory.
 
-3. searchbyPROCESSNAME:
+3.) searchbyPROCESSNAME:
         
 > Now, the Tab of ProcessName tab is only available in the Procinfo.csv. So, we consider only this file as the Input. We then proceed to find the UserQuerry in the PROCESSNAME tab. If Present, (say python3, or zsh), we append the complete row about the Query into the P-Name.txt file inside the same Directory.
 
-4. searchbyNETWORKSTATUS:
+4.) searchbyNETWORKSTATUS:
     
 > Now, the Tab of NetworkSTATUS tab is only available in the Netinfo.csv. So, we consider only this file as the Input. We then proceed to find the UserQuerry in the NETSTAUS tab. If Present, (say ESTABLISHED or IDLE or CLOSED), we append the complete row about the Query into the NET-STATUS.txt file inside the same Directory.
         
 The user is notifies about the Progress as:
 
-  1. Through Notification:
+1.) Through Notification:
 
             The (User Query)(User Choice) is stored in (UserChoice).txt")  >
 
-  2. Through E-mail:
+2.) Through E-mail:
 
      Sender: raystrahl30032003@gmail.com
      Reciever: (TheUser@example.xyz)
