@@ -104,8 +104,8 @@ The user is notifies about the Progress as:
 
 2.) Through E-mail:
 
-     Sender: raystrahl30032003@gmail.com
-     Reciever: (TheUser@example.xyz)
+   Sender: raystrahl30032003@gmail.com
+   Reciever: (TheUser@example.xyz)
 
 Subject:
 
