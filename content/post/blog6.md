@@ -20,6 +20,10 @@ The thing is, I have never been able to sit and program for more than 15-20 minu
 But, today was different. I have surpassed all my previous limits and continuously programmed for a total of 5:43 hrs.
 Well, it was not all programming, obviously. I had to refer various sources on Internet to read the Documentationa and stuff.
 
+I had one eye on the Python Documentation and other articles. My browser tab was completely filled with multiple tabs I had opened. Moreover, I even had multiple videos playing at the same time. Usually, I hate multi-tasking, but Today, it seems, I had forgot my idealism. The other side of my Desktop was pinned to my Text-Editor. I prefer "GNU-NANO" over any other code-editors. 
+
+Overall, the Project was a SUCCESS. PLease visit my Project.
+
 ## > My EDI Project. : )   ___ _Phase-I_ 💻
 
 So, my friend, let me explain my Project and steps I took to accompalish it until its' completion.
