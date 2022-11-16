@@ -13,14 +13,14 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-# Hello Friend.
+# Hello Friend. 🤓
 
 Today what happened with me was truly unbelieveable. I was programming my **EDI Project**. 
 The thing is, I have never been able to sit and program for more than 15-20 minuits.
 But, today was different. I have surpassed all my previous limits and continuously programmed for a total of 5:43 hrs.
 Well, it was not all programming, obviously. I had to refer various sources on Internet to read the Documentationa and stuff.
 
-## > My EDI Project. : )   ___ _Phase-I_
+## > My EDI Project. : )   ___ _Phase-I_ 💻
 
 So, my friend, let me explain my Project and steps I took to accompalish it until its' completion.
 
@@ -67,14 +67,14 @@ SO, we now we get 3 files namely- **Sysinfo.csv, Procinfo.csv, Netinfo.csv**. Ou
 > The **Netinfo.csv** provides the information about the _ProcessID_, _Local IP & Port_, _Remote IP & Port_.
 
 
-## Revison (Phase-1)
+## Revison (Phase-1) 🔖
 
 So, recap: 
 
 Firstly, we started a connection between Client and Server. From this connection, we produced three files, regarding System Information, Process Information, Network Information. After this process, we used my Python Script-- ANALYSER.py to convert all these random files to a readable format --(.csv). Now, we could distinguish between the parameters present in all these files. The Syatem info. file provides the information regarding the System Configuration. The Process Info. provides the information regarding the Processes happening within the system, it gives us the Process IDs, with respective Process Names and Process Status. Atlast, The Network Info. gives us the info abou the Processes, requireing Network connectivity. It shows the ProcessIDs along with their Network Status, Local IP&Ports and Remote IP&Ports.
 
 
-## > My EDI Project. : )   ___ _Phase-II_
+## > My EDI Project. : )   ___ _Phase-II_ 💻
 
 Now, for Phase II, we have three outputs. First, we have to creatte a text file out of the querry, having all the parameters from .csv file, combined over to single file. Second, we have to notify about the creation of the file with the **NOTIFICATION** over the Desktop. Third, we have to **E-MAIL** the completion of the progress to the User's account along with the location of the file and the Query address.
 
@@ -104,8 +104,8 @@ The user is notifies about the Progress as:
 
 2.) Through E-mail:
 
-   Sender: raystrahl30032003@gmail.com
-   Reciever: (TheUser@example.xyz)
+   > Sender: raystrahl30032003@gmail.com
+   > Reciever: (TheUser@example.xyz)
 
 Subject:
 
@@ -118,7 +118,7 @@ body:
 
         Thank You and have a Good Day.'''
 
-## Backend of my _PHASE-II_
+## Backend of my _PHASE-II_ 🎱
 
 For Notify:
 
