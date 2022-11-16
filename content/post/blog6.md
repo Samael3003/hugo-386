@@ -13,7 +13,7 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-Hello Friend.
+# Hello Friend.
 
 Today what happened with me was truly unbelieveable. I was programming my **EDI Project**. 
 The thing is, I have never been able to sit and program for more than 15-20 minuits.
